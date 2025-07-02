@@ -1,5 +1,5 @@
 # srilakshmi
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm ISTARLA SRILAKSHMI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istarla&show_icons=true&locale=en" alt="istarla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istarla&" alt="istarla" /></p>
+
